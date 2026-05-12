@@ -1,0 +1,2 @@
+0 Barang Bagus
+1 Barang Cacat
